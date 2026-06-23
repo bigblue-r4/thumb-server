@@ -117,8 +117,8 @@ This repository's commit history, including cryptographic SHA hashes, serves
 as a tamper-evident timestamp record. The initial commit hash should be
 recorded here upon first push:
 
-**Initial commit SHA:** `[see git log after push]`  
-**Commit timestamp (UTC):** `[see git log after push]`  
+**Initial commit SHA:** `7a9fa440c22a8dcc1f3dce37244f6a078d28fcaf`  
+**Commit timestamp (UTC):** `2026-06-23T09:09:47Z`  
 **GitHub repository URL:** `https://github.com/bigblue-r4/thumb-server`  
 
 ---
