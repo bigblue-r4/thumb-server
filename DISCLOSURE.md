@@ -7,7 +7,7 @@
 
 **Entity:** SGAIL, Inc.  
 **Structure:** Delaware C-Corp / Montana LLC  
-**Inventor:** Christopher [LastName]  
+**Inventor:** Christopher Howard  
 **Disclosure Date:** June 22, 2026  
 **Disclosure Type:** Voluntary public prior art disclosure  
 
@@ -126,9 +126,9 @@ recorded here upon first push:
 ### Contact
 
 For licensing inquiries or collaboration:  
-**SGAIL, Inc.**  
+**Christopher Howard / SGAIL, Inc.**  
 North Shore, Oahu, Hawaii  
-`trentdoosday@gmail.com`
+`christopher_howard@live.com` (backup: `smrtgy2000@yahoo.com`)
 
 ---
 
